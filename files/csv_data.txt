@@ -1,0 +1,5 @@
+name,age,university,degree
+david,20,stanford,computer science
+rolf,25,mit,oxford,computing
+anna,30,cambridge,physics
+jose,90,mit,biology
